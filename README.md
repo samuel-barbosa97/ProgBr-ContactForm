@@ -2,6 +2,11 @@
 
 Projeto apresentado pelo Igor Oviveira do ProgBr, com a intenção de demonstrar a interação do PHP com o MAMP.
 
+Preview:
+
+![1](https://user-images.githubusercontent.com/89155684/136818218-95215f99-7a38-4a8c-ad1a-1e7cad10608b.png)
+
+
 ## *Linguagens Utilizadas* 
 
 <p align="left">
