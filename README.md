@@ -1,4 +1,4 @@
-# *Formulário de Contatos 📧
+# Formulário de Contatos 📧
 
 Projeto apresentado pelo Igor Oviveira do ProgBr, com a intenção de demonstrar a interação do PHP com o MAMP.
 
